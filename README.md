@@ -9,6 +9,7 @@ For example, at App Club, the team always believed that when students feel like 
 The goal is to look back at two generations of students' purely experimental leadership at the scale of a faculty, from November 2016 to May 2020, study the achievements and the failures, from communication, recruitment, goal setting, training new members, initiating new programs, etc. and develop their best practices, to multiply the efficiency and takeaways of the 3rd and future club leaders, and to build a model out of App Club that students at other institutions can easily adopt and replicate.
 
 
-###Reference:
+
+### Reference:
 
 * Michael P Leiter, , Christina Maslach, (2003), AREAS OF WORKLIFE: A STRUCTURED APPROACH TO ORGANIZATIONAL PREDICTORS OF JOB BURNOUT, in Pamela L. Perrewe, Daniel C. Ganster (ed.) Emotional and Physiological Processes and Positive Intervention Strategies (Research in Occupational Stress and Well-being, Volume 3) Emerald Group Publishing Limited, pp.91 - 134
