@@ -1,0 +1,1 @@
+# The qualities of the founder(s)
