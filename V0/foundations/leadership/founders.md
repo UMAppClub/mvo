@@ -1,7 +1,7 @@
 # Founding App Club
 
-Where: University of Malaya, Malaysia
-When: November 2016
+* Where: University of Malaya, Malaysia
+* When: November 2016
 
 ## Why did we start App Club
 
