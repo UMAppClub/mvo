@@ -1,31 +1,23 @@
 # App Club Minimum Viable Organization
 
+App Club is a tech student community at University of Malaya, in Malaysia. A bunch of students informally started it in 2016, grew it and built small structures and processes to make sure it can last, if it should.
+
+It made our Computer Science education better, and helped us build lasting friendships. 
+
+In this repo, we wanna open-source App Club, so you can _clone_ it in your faculty and grow as a team.
+
 ## Table of Contents
 
-* [What is The App Club](#what-is-the-app-club)
 * [What is The App Club MVO?](#what-is-the-app-club-mvo)
 * [What's the goal?](#whats-the-goal)
 * [When will it be ready?](#when-will-it-be-ready)
 * [Releases](#releases)
 * [References](#references)
 
-## What is The App Club?
-
-## What is The App Club MVO? 
-In this document I aim to work with current and previous App Club leaders and coaches to theoretically validate the decisions that 2 generations of App Club leaders have made and the lessons we learned, against the available literature in leadership, management and organization studies.
-
-For example, at App Club, the team always believed that when students feel like they are part of a friendly and supportive community, they are more engaged with their learning goals and more productive. Therefore, the absence of a community at CS faculty seemed to be a leading factor to burnout or sub-otpimal growth. Today we know that there's a research validating that belief*.
-
 
 ## When will this be ready?
 Due out in August 2020, marking the closing of App Club's 2nd leadership term. 
 
-## What's the goal?
-The goal is to look back at two generations of students' purely experimental leadership at the scale of a faculty, from November 2016 to May 2020, study the achievements and the failures, from communication, recruitment, goal setting, training new members, initiating new programs, etc. and find out what the best practices of each of those topics are, compared to how students actually executed them. 
-
-Our findings can help to multiply the efficiency and takeaways of the future club leaders, and to build a model out of App Club that students at other institutions can easily adopt and replicate.
-
-Ultimately, I'd like to package open-source the App Club growth model and make it possible for students at other CS faculties across Malaysia and other developing countries to pick it up and make it work in their communities, fast, for hyper growth.
 
 ## Releases
 * V0 (WIP): documenting how _we_ have done it
