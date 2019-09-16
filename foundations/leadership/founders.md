@@ -1,4 +1,8 @@
 # Founding App Club
+
+Where: University of Malaya, Malaysia
+When: November 2016
+
 ## Why did we start App Club
 
 Our main reasons, in November 2016, were:
