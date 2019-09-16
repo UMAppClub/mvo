@@ -10,7 +10,7 @@ The goal is to look back at two generations of students' purely experimental lea
 
 Our findings can help to multiply the efficiency and takeaways of the future club leaders, and to build a model out of App Club that students at other institutions can easily adopt and replicate.
 
-
+Ultimately, I'd like to package open-source the App Club growth model and make it possible for students at other CS faculties across Malaysia and other developing countries to pick it up and make it work in their communities, fast, for hyper growth.
 
 ### Reference:
 
