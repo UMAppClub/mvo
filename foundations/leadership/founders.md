@@ -1,4 +1,5 @@
-# Why did we start App Club
+# Founding App Club
+## Why did we start App Club
 
 Our main reasons, in November 2016, were:
 
