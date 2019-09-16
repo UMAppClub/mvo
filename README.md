@@ -12,6 +12,12 @@ Our findings can help to multiply the efficiency and takeaways of the future clu
 
 Ultimately, I'd like to package open-source the App Club growth model and make it possible for students at other CS faculties across Malaysia and other developing countries to pick it up and make it work in their communities, fast, for hyper growth.
 
+## Releases
+* V0 (WIP): documenting how _we_ have done it
+    * The founding team, from 2016–2018, led by Sina & Jo Yi
+    * 2018–Present, HuaiYu and YitTyn's team
+* V1: How to create and run an App Club in your faculty
+
 ### Reference:
 
 * Michael P Leiter, , Christina Maslach, (2003), AREAS OF WORKLIFE: A STRUCTURED APPROACH TO ORGANIZATIONAL PREDICTORS OF JOB BURNOUT, in Pamela L. Perrewe, Daniel C. Ganster (ed.) Emotional and Physiological Processes and Positive Intervention Strategies (Research in Occupational Stress and Well-being, Volume 3) Emerald Group Publishing Limited, pp.91 - 134
