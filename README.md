@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
-* [What is The App Club]()
-* [What is The App Club MVO?]()
-* [What's the goal?]()
-* [When will it be ready?]()
-* [Releases]()
-* [References]()
+* [What is The App Club](#what-is-the-app-club)
+* [What is The App Club MVO?](#what-is-the-app-club-mvo)
+* [What's the goal?](#whats-the-goal)
+* [When will it be ready?](#when-will-it-be-ready)
+* [Releases](#releases)
+* [References](#references)
 
 ## What is The App Club?
 
